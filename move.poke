@@ -156,7 +156,6 @@
 	{"name": "Facade", "type": "NORMAL", "category": "Physical", "power": "70", "accuracy": "100", "pp": "20", "tm": "TM42", "probability": "0", "description": "Stronger if user is Burned, Poisoned, or Paralyzed."},
 	{"name": "Feint Attack", "type": "DARK", "category": "Physical", "power": "60", "accuracy": "-1", "pp": "20", "tm": "0", "probability": "0", "description": "Ignores Accuracy and Evasiveness."},
 	{"name": "Fairy Lock", "type": "FAIRY", "category": "Status", "power": "0", "accuracy": "0", "pp": "10", "tm": "0", "probability": "0", "description": "By locking down the battlefield, the user keeps all Pokémon from fleeing during the next turn."},
-	{"name": "Fairy Wind", "type": "FAIRY", "category": "-2", "power": "-2", "accuracy": "-2", "pp": "0", "tm": "0", "probability": "0", "description": ""},
 	{"name": "Fairy Wind", "type": "FAIRY", "category": "Special", "power": "40", "accuracy": "100", "pp": "30", "tm": "0", "probability": "0", "description": "The user stirs up a fairy wind and strikes the target with it."},
 	{"name": "Fake Out", "type": "NORMAL", "category": "Physical", "power": "40", "accuracy": "100", "pp": "10", "tm": "0", "probability": "100", "description": "User attacks first, foe flinches. Only usable on first turn."},
 	{"name": "Fake Tears", "type": "DARK", "category": "Status", "power": "0", "accuracy": "100", "pp": "20", "tm": "0", "probability": "0", "description": "Sharply lowers opponent's Special Defense."},
