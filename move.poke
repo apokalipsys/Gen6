@@ -1,4 +1,4 @@
-[
+﻿[
     {"name":"Absorb","name_de":"Absorber","name_fr":"Vol-Vie","name_jp":"すいとる (Suitoru)","type":"GRASS","category":"Special","power":"20","accuracy":"100","pp":"25","tm":"0","probability":"0","description":"User recovers half the HP inflicted on opponent."},
     {"name":"Acid Armor","name_de":"Säurepanzer","name_fr":"Acidarmure","name_jp":"とける (Tokeru)","type":"POISON","category":"Status","power":"0","accuracy":"0","pp":"40","tm":"0","probability":"0","description":"Sharply raises user's Defense."},
     {"name":"Acid Spray","name_de":"Säurespeier","name_fr":"Bombe Acide","name_jp":"アシッドボム (Acid Bomb)","type":"POISON","category":"Special","power":"40","accuracy":"100","pp":"20","tm":"0","probability":"100","description":"Sharply lowers opponent's Special Defense."},
@@ -488,7 +488,7 @@
     {"name":"Smack Down","name_de":"Katapult","name_fr":"Anti-Air","name_jp":"うちおとす (Uchiotosu)","type":"ROCK","category":"Physical","power":"50","accuracy":"100","pp":"15","tm":"TM23","probability":"100","description":"Makes Flying-type Pokemon vulnerable to Ground moves."},
     {"name":"Smelling Salt","name_de":"Riechsalz","name_fr":"Stimulant","name_jp":"きつけ (Kitsuke)","type":"NORMAL","category":"Physical","power":"60","accuracy":"100","pp":"10","tm":"0","probability":"0","description":"Power increases when used on a paralyzed opponent, but cures it."},
     {"name":"Smog","name_de":"Smog","name_fr":"Purédpois","name_jp":"スモッグ (Smog)","type":"POISON","category":"Special","power":"20","accuracy":"70","pp":"20","tm":"0","probability":"40","description":"May poison opponent."},
-    {"name":"Smokescreen","name_de":"Rauchwolke","name_fr":"Brouillard","name_jp":"えんまく (Enmaku)","type":"NORMAL","category":"Status","power":"0","accuracy":"100","pp":"20","tm":"0","probability":"0","description":"Lowers opponent's Accuracy."},
+    {"name":"Smoke Screen","name_de":"Rauchwolke","name_fr":"Brouillard","name_jp":"えんまく (Enmaku)","type":"NORMAL","category":"Status","power":"0","accuracy":"100","pp":"20","tm":"0","probability":"0","description":"Lowers opponent's Accuracy."},
     {"name":"Snarl","name_de":"Standpauke","name_fr":"Aboiement","name_jp":"バークアウト (Bark Out)","type":"DARK","category":"Special","power":"55","accuracy":"95","pp":"15","tm":"TM95","probability":"100","description":"Lowers opponent's Special Attack."},
     {"name":"Snatch","name_de":"Übernahme","name_fr":"Saisie","name_jp":"よこどり (Yokodori)","type":"DARK","category":"Status","power":"0","accuracy":"0","pp":"10","tm":"0","probability":"0","description":"Steals the effects of the opponent's next move."},
     {"name":"Snore","name_de":"Schnarcher","name_fr":"Ronflement","name_jp":"いびき (Ibiki)","type":"NORMAL","category":"Special","power":"40","accuracy":"100","pp":"15","tm":"0","probability":"30","description":"Can only be used if asleep. May cause flinching."},
