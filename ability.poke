@@ -186,5 +186,9 @@
     {"name":"White Smoke","name_de":"Pulverrauch","name_fr":"Écran Fumée","name_ja":"しろいけむり (Shiroi Kemuri)","description":"The wielder's stats cannot be lowered. Decreases wild encounter rate."},
     {"name":"Wonder Guard","name_de":"Wunderwache","name_fr":"Garde Mystik","name_ja":"ふしぎなまもり (Fushigi na Mamori)","description":"Only super effective attacks harm the wielder."},
     {"name":"Wonder Skin","name_de":"Wunderhaut","name_fr":"Peau Miracle","name_ja":"ミラクルスキン (Miracle Skin)","description":"Reduces the accuracy of a status move to 50%."},
-    {"name":"Zen Mode","name_de":"Trance-Modus","name_fr":"Mode Transe","name_ja":"ダルマモード (Daruma Mode)","description":"The wielder changes forme when below 50% of its max HP."}
+    {"name":"Zen Mode","name_de":"Trance-Modus","name_fr":"Mode Transe","name_ja":"ダルマモード (Daruma Mode)","description":"The wielder changes forme when below 50% of its max HP."},
+    {"name":"Surge Surfer","name_de":"","name_fr":"","name_ja":"サーフテール (Surf Tail)","description":"Doubles the Pokémon's Speed stat on Electric Terrain."},
+    {"name":"Tangling Hair","name_de":"","name_fr":"","name_ja":"カーリーヘアー (Curly Hair)","description":"Lowers opponent's Speed by 1 stage when the opponent makes physical contact with the Pokémon."},
+    {"name":"Galvanize","name_de":"","name_fr":"","name_ja":"エレキスキン (Electric Skin)","description":"Increases the power of Normal-type moves by 20%. It then changes those moves to Electric-type."},
+    {"name":"Power of Alchemy","name_de":"","name_fr":"","name_ja":"かがくのちから (Power of Chemistry)","description":"The Pokémon copies the Ability of a defeated ally."}
 ]

@@ -4,7 +4,7 @@ A lazy attempt to create the Generation 7 Data
 TODO:
 
 - [x] Update changed stats
-- [ ] Add new forms
+- [x] Add new forms
 - [ ] Add new mons
 - [ ] Update movesets
 - [ ] Update TMs and remove HMs
